@@ -2,8 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Matheus Augusto Alves Ramos, tenho 17 anos e sou natural de Minas Gerais. Concluí o ensino médio no COTEMIG, com o curso técnico em informática.
-
+Me chamo Matheus Augusto Alves Ramos, tenho 17 anos e sou natural de Minas Gerais. Cursando o Ensino Médio Técnico em Informática no COTEMIG.
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
