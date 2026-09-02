@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Matheus Augusto
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Matheus Augusto Alves Ramos, tenho 17 anos e sou natural de Minas Gerais. Cursando o Ensino Médio Técnico em Informática no COTEMIG.
 <p align="left">
