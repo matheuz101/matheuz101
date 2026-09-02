@@ -128,7 +128,8 @@ width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
 />
-
+<br/>
+<br/>
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheuz101&theme=github_dark)
 
 <br/>
