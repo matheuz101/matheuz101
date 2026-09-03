@@ -131,8 +131,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-ori
 <br/>
 <br/>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheuz101&theme=github_dark)
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matheuz101&show_icons=true&theme=dark)
 <br/>
 <br/>
 
